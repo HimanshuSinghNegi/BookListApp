@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyBookListApp</string>
+    <string name="nameOfBook">Andord Book</string>
+    <string name="pubDate">12-09-2021</string>
+    <string name="author">Jenny</string>
+    <string name="bullet">:--</string>
+    <string name="imageDescription">This image view is to show the images of the books</string>
+</resources>
